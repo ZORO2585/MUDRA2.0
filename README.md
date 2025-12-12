@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mudra - Advanced Speech-to-Sign Language Converter
 
 ![Mudra Logo](https://img.shields.io/badge/Mudra-Sign%20Language%20Converter-blue?style=for-the-badge&logo=accessibility)
@@ -286,3 +287,7 @@ Transform Mudra into the **world's leading bidirectional multilingual sign langu
 - 🐦 **Twitter**: [@MudraApp](https://twitter.com/mudraapp)
 
 **Made with ❤️ for complete communication accessibility worldwide**
+=======
+# MUDRA2.0
+Mudra is a multilingual, AI-powered bidirectional communication platform that converts speech and text into sign language and also recognizes sign language through webcam gestures. It bridges the gap between hearing and deaf communities with real-time, accessible interaction
+>>>>>>> ebc05644008678442008bc0658960030f4f0d8bc
